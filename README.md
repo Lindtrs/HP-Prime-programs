@@ -14,6 +14,7 @@ Calculate the volume of a rectangle, triangular prism, cylinder, cone or sphere
 
 Calculate the Fourier's coeficients for Fourier's Trigonometric, Exponential or Harmonic series.
 
+```
 ftrig(expression, period, initial k value, final k value) -> Return the calculated a and b coeficients for every k value
 -----------------------
 fexp(expression, period, initial k value, final k value) -> Return the calculated c coeficient and θ for every k value
