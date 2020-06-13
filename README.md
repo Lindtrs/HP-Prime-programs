@@ -14,14 +14,12 @@ Calculate the volume of a rectangle, triangular prism, cylinder, cone or sphere
 
 Calculate the Fourier's coeficients for Fourier's Trigonometric, Exponential or Harmonic series.
 
-```
-ftrig(expression, period, initial k value, final k value) -> Return the calculated a and b coeficients for every k value
------------------------
-fexp(expression, period, initial k value, final k value) -> Return the calculated c coeficient and θ for every k value
-fhar(expression, period, initial k value, final k value) -> Return the calculated c coeficient and θ for every k value
-fcoefa(expression, period) -> Return the function to calculate the coeficient a (Only used in trig. series)
-fcoefb(expression, period) -> Return the function to calculate the coeficient b (Only used in trig. series)
-fcoefc(expression, period) -> Return the function to calculate the coeficient c (Only used in exp. series)
-```
+
+* ftrig(expression, period, initial k value, final k value) -> Return the calculated a and b coeficients for every k value
+* fexp(expression, period, initial k value, final k value) -> Return the calculated c coeficient and θ for every k value
+* fhar(expression, period, initial k value, final k value) -> Return the calculated c coeficient and θ for every k value
+* fcoefa(expression, period) -> Return the function to calculate the coeficient a (Only used in trig. series)
+* fcoefb(expression, period) -> Return the function to calculate the coeficient b (Only used in trig. series)
+* fcoefc(expression, period) -> Return the function to calculate the coeficient c (Only used in exp. series)
 
 
