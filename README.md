@@ -22,4 +22,6 @@ Attention: when you enter the expression, please use t as your variable. For exa
 * fcoefb(expression, period) -> Return the function to calculate the coeficient b (Only used in trig. series)
 * fcoefc(expression, period) -> Return the function to calculate the coeficient c (Only used in exp. series)
 
+Attention: this program has some bugs and may not work for every value or equation
+
 
